@@ -1,0 +1,23 @@
+body{
+    background-color: salmon;
+}
+
+#clock{
+  font-size: 150px;
+  text-align: center;
+  position: relative;
+  top: 100px;
+  font-family: 'Alfa Slab One', cursive;
+
+}
+
+#title{
+  font-size: 80px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  top: 100px;
+  font-family: 'Courgette', cursive;
+  text-decoration: underline;
+  font-family: 'Barlow Condensed', sans-serif;
+}
