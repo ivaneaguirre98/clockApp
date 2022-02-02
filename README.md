@@ -1,2 +1,3 @@
-# clockApp
-An app I wrote that automatically updates every second telling the current time. 
+# Clock App
+
+Application that is a clock that updates every second to display the time in HH:MM:SS format. 
